@@ -1,0 +1,1 @@
+c:\#catalog\game_dev\#projects\tap\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
